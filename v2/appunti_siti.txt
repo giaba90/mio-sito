@@ -1,0 +1,32 @@
+http://themeforest.net/item/metroid-responsive-vcard-html/full_screen_preview/5867473
+
+http://themes.sonnyt.com/compass/#/resume
+
+http://themeforest.net/item/plus-responsive-retina-ready-vcard-template/full_screen_preview/5549467
+
+http://www.codingfeat.com/items/?theme=voxr
+
+http://wrapbootstrap.com/preview/WB00N27LB <--- guardare
+
+.nav-pills > li {
+    float: left;
+    padding-left: 5px;
+}
+
+.nav.nav-pills a {
+    background-color: #EEEEEE;
+    color: #555555;
+    font-family: 'Open Sans',sans-serif;
+}
+
+http://themeforest.net/category/site-templates/personal/virtual-business-card
+
+http://themeforest.net/item/perfectcv-responsive-bootstrap-cv-resume/full_screen_preview/4102616
+
+http://www.webdesigntunes.com/web-design/resume-cv-templates/#.UsRFtfZIUnM
+
+
+
+http://themes.suitstheme.com/?theme=BlogifyHTML
+
+http://www.stefanoschintu.com/demos/fbar/?theme=Webfolio
