@@ -10,7 +10,7 @@
 ini_set('display_errors', 'On');
 ini_set('error_reporting', E_ALL & ~E_NOTICE);
 //email del destinatario del form
-$destinatario = 'gianlucabarranca@gmail.com';
+$destinatario = ' ';
 //oggetto dell'email inviata
 $oggetto = 'Mail dal modulo contatti del tuo sito personale';
 $nome=$_POST['name'];
@@ -41,7 +41,7 @@ $headmail.="Content-Transfer-Encoding: 7bit\n";
 $contenuto_email = "Nome: $nome\n\n"; //Queste variabili sono create nel passaggio precedente
 $contenuto_email .= "Email: $email\n\n";
 $contenuto_email .= "Messaggio:\n $messaggio\n\n";
-//limita la lunghezza a 70 caratteri per la compatibilitˆ
+//limita la lunghezza a 70 caratteri per la compatibilitï¿½
 $contenuto_email = wordwrap($contenuto_email,70);
 //invia l'email    
 $mail_sent = mail("$destinatario", "$oggetto", "$contenuto_email", "$headmail");
